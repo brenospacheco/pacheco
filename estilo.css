@@ -1,0 +1,11 @@
+h1{
+    color: hsl(0, 100%, 50%);
+    font-size: 50px;
+    text-align: center;
+    border: solid rgb(201, 185, 165);
+}
+
+body{
+    background-color: rgb(201, 185, 165);
+
+}
